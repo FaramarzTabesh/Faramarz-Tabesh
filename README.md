@@ -3,16 +3,17 @@
 Founder of Andishe Online Germany (AOG)  
 📍 Troisdorf, NRW, Germany  
 📧 andishe-germany@online.de
+**ISNI:** [0000 0005 2737 2290](https://isni.org/isni/0000000527372290)
 
 ## 📚 Selected Publications on Zenodo
 
-- [EN] https://doi.org/10.5281/zenodo.15235184  
-- [EN] https://doi.org/10.5281/zenodo.15241032  
-- [EN] https://doi.org/10.5281/zenodo.15475221  
-- [FR] https://doi.org/10.5281/zenodo.15309731  
-- [ES] https://doi.org/10.5281/zenodo.15281557  
-- [DE] https://doi.org/10.5281/zenodo.15269499  
-- [FA] https://doi.org/10.5281/zenodo.15302007  
+- [EN – Publication 1](https://doi.org/10.5281/zenodo.15235184)  
+- [EN – Publication 2](https://doi.org/10.5281/zenodo.15241032)  
+- [EN – Publication 3](https://doi.org/10.5281/zenodo.15475221)  
+- [FR – Publication](https://doi.org/10.5281/zenodo.15309731)  
+- [ES – Publication](https://doi.org/10.5281/zenodo.15281557)  
+- [DE – Publication](https://doi.org/10.5281/zenodo.15269499)  
+- [FA – Publication](https://doi.org/10.5281/zenodo.15302007) 
 
 ## 🔗 ORCID
 
@@ -22,7 +23,7 @@ Founder of Andishe Online Germany (AOG)
 
 **Research Institute Andishe Online Germany (AOG)**  
 - Website: [https://www.andishe.online](https://www.andishe.online)  
-- ISNI: 0000 0005 2724 714X  
+- ISNI: [0000 0005 2724 714X](https://isni.org/isni/000000052724714X)  
 - Ringgold ID: 823032  
 - Journal: *Andishe* (ISSN: 1619-9898)
 ## Full List of Publications
