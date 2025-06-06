@@ -3,6 +3,7 @@
 Founder of Andishe Online Germany (AOG)  
 📍 Troisdorf, NRW, Germany  
 📧 andishe-germany@online.de
+
 **ISNI:** [0000 0005 2737 2290](https://isni.org/isni/0000000527372290)
 
 ## 📚 Selected Publications on Zenodo
