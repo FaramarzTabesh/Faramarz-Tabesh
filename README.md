@@ -32,11 +32,9 @@ Founder of Andishe Online Germany (AOG)
 All publications in six languages are organized by section on the official website of the Andishe Online Germany Research Institute:
 
 [Visit Full Publication Archive](https://www.andishe.online/)
----
-## 📚 Article List
+<!-- ARTICLE LIST START -->
+This is where the article list will appear.
+<!-- ARTICLE LIST END -->
 
-1. [Appearance of Instinctive Characteristics – Step 1: New Concepts and Ideas (Q2)](https://aogdata.wikibase.cloud/wiki/Item:Q2)  
-2. [Who’s Elite (Q3)](https://aogdata.wikibase.cloud/wiki/Item:Q3)  
-3. [Faramarz Tabesh (Q10)](https://aogdata.wikibase.cloud/wiki/Item:Q10)  
-4. [Research Institute Andishe Online Germany (AOG) (Q12)](https://aogdata.wikibase.cloud/wiki/Item:Q12)  
+
 
