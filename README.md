@@ -61,6 +61,12 @@ A curated selection of literary works, reflections, and essays published on Medi
 ---
 🔗 [Visit Medium Profile – @f.tabesh](https://medium.com/@f.tabesh)
 ---
+### ▶️ Research Institute "Andishe Online Germany - AOG" YouTube Channel
+---
+Featuring over 350 educational scientific videos in six different languages, all created and produced by Faramarz Tabesh, aimed at sharing knowledge and advancing research.
+
+🔗 [Visit our YouTube Channel](https://www.youtube.com/channel/UCDJ2r3x2mO7bfMpVw6lB1EQ/videos)
+---
 
 
 
