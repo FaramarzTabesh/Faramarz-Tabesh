@@ -41,6 +41,12 @@ All publications in six languages are organized by section on the official websi
 - [AOG – Research (Spanish)](https://doi.org/10.17605/OSF.IO/DKSEQ)
 - [AOG – Research (Persian)](https://doi.org/10.17605/OSF.IO/W3M58)
 ---
+### 🎓 Scholarly Works by Faramarz Tabesh on Academia.edu
+---
+Explore academic papers, publications, and research contributions:
+
+🔗 [Faramarz Tabesh on Academia.edu](https://independent.academia.edu/FaramarzTabesh)
+---
 # aogdata.wikibase Items
 ---
 <!-- ARTICLE LIST START -->
