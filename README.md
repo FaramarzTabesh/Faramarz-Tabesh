@@ -55,7 +55,7 @@ Explore academic papers, publications, and research contributions:
 - [Appearance of instinctive characteristics – Step 1: New Concepts and Ideas](https://aogdata.wikibase.cloud/wiki/Item:Q2)
 - [Who´s Elite](https://aogdata.wikibase.cloud/wiki/Item:Q3)
 <!-- ARTICLE LIST END -->
-
+---
 ### ✍️ Literary Works by Faramarz Tabesh
 
 A curated selection of literary works, reflections, and essays published on Medium.
