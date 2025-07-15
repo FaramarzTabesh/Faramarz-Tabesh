@@ -32,6 +32,9 @@ Founder of Andishe Online Germany (AOG)
 All publications in six languages are organized by section on the official website of the Andishe Online Germany Research Institute:
 
 [Visit Full Publication Archive](https://www.andishe.online/)
+---
+# aogdata.wikibase Items
+---
 <!-- ARTICLE LIST START -->
 - [Research Institute Andishe Online Germany (AOG)](https://aogdata.wikibase.cloud/wiki/Item:Q12)
 - [Faramarz Tabesh](https://aogdata.wikibase.cloud/wiki/Item:Q10)
