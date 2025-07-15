@@ -33,6 +33,14 @@ All publications in six languages are organized by section on the official websi
 
 [Visit Full Publication Archive](https://www.andishe.online/)
 ---
+### 📁 AOG Projects on OSF
+---
+- [AOG – Research (German)](https://doi.org/10.17605/OSF.IO/ZW47U)
+- [AOG – Research (English)](https://doi.org/10.17605/OSF.IO/EGMPC)
+- [AOG – Research (French)](https://doi.org/10.17605/OSF.IO/ETXPS)
+- [AOG – Research (Spanish)](https://doi.org/10.17605/OSF.IO/DKSEQ)
+- [AOG – Research (Persian)](https://doi.org/10.17605/OSF.IO/W3M58)
+---
 # aogdata.wikibase Items
 ---
 <!-- ARTICLE LIST START -->
