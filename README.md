@@ -52,8 +52,18 @@ Explore academic papers, publications, and research contributions:
 <!-- ARTICLE LIST START -->
 - [Research Institute Andishe Online Germany (AOG)](https://aogdata.wikibase.cloud/wiki/Item:Q12)
 - [Faramarz Tabesh](https://aogdata.wikibase.cloud/wiki/Item:Q10)
-- [Appearance of instinctive characteristics – Step 1: New Concepts and Ideas](https://aogdata.wikibase.cloud/wiki/Item:Q2)
-- [Who´s Elite](https://aogdata.wikibase.cloud/wiki/Item:Q3)
+1. [Appearance of Instinctive Characteristics – Step 1: New Concepts and Ideas (Q2)](https://aogdata.wikibase.cloud/wiki/Item:Q2)
+2. [Who’s Elite (Q3)](https://aogdata.wikibase.cloud/wiki/Item:Q3)
+3. [Quantomagnetics Theory (Q24)](https://aogdata.wikibase.cloud/wiki/Item:Q24)
+4. [Anthropomorphism: Scientific Analysis and Correction of Common Misconceptions (Q71)](https://aogdata.wikibase.cloud/wiki/Item:Q71)
+5. [The Difference Between a Sect and a Complete Worldview (Q73)](https://aogdata.wikibase.cloud/wiki/Item:Q73)
+6. [A Critical Evaluation of a Scientific Misstep (Q76)](https://aogdata.wikibase.cloud/wiki/Item:Q76)
+7. [From Tus to London: A Comparative Study of the Lives and Legacies of Ferdowsi and Shakespeare – Part I (Q77)](https://aogdata.wikibase.cloud/wiki/Item:Q77)
+8. [From Tus to London: A Comparative Study of the Lives and Legacies of Ferdowsi and Shakespeare – Part II (Q78)](https://aogdata.wikibase.cloud/wiki/Item:Q78)
+9. [Infant Psychology – Episode 1 (Q79)](https://aogdata.wikibase.cloud/wiki/Item:Q79)
+10. [Infant Psychology – Episode 2 (Q81)](https://aogdata.wikibase.cloud/wiki/Item:Q81)
+11. [Infant Psychology – Episode 3 (Q82)](https://aogdata.wikibase.cloud/wiki/Item:Q82)
+12. [Infant Psychology – Episode 4: Final Episode (Q83)](https://aogdata.wikibase.cloud/wiki/Item:Q83)
 <!-- ARTICLE LIST END -->
 ---
 ### ✍️ Literary Works by Faramarz Tabesh
