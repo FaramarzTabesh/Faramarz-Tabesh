@@ -27,11 +27,19 @@ Founder of Andishe Online Germany (AOG)
 - ISNI: [0000 0005 2724 714X](https://isni.org/isni/000000052724714X)  
 - Ringgold ID: 823032  
 - Journal: *Andishe* (ISSN: 1619-9898)
+  ---
 ## Full List of Publications
 
-All publications in six languages are organized by section on the official website of the Andishe Online Germany Research Institute:
+The Research Institute Andishe Online Germany (AOG) offers all publications in six languages.
 
-[Visit Full Publication Archive](https://www.andishe.online/)
+### Visit Full Publication Archive by Language:
+- [AOG – English](https://www.andishe.online/english)
+- [AOG – Persian (Farsi)](https://www.andishe.online/newpage137)
+- [AOG – German (Deutsch)](https://www.andishe.online/biologie-der-quantendimension)
+- [AOG – French (Français)](https://www.andishe.online/newpagec3aa5f9b)
+- [AOG – Spanish (Español)](https://www.andishe.online/newpage576321f5)
+- [AOG – Arabic (Arabic)](https://www.andishe2.online/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9)
+
 ---
 ### 📁 AOG Projects on OSF
 
