@@ -1,6 +1,9 @@
 # Faramarz Tabesh
 
-Founder of Andishe Online Germany (AOG)  
+Founder of Andishe Online Germany (AOG)
+Innovator of "**modern integrative sciences**" 
+and originator of the "**Quantomagnetics theory**"
+
 📍 Troisdorf, NRW, Germany  
 📧 andishe-germany@online.de
 
