@@ -76,6 +76,9 @@ Explore academic papers, publications, and research contributions:
 10. [Infant Psychology – Episode 2 (Q81)](https://aogdata.wikibase.cloud/wiki/Item:Q81)
 11. [Infant Psychology – Episode 3 (Q82)](https://aogdata.wikibase.cloud/wiki/Item:Q82)
 12. [Infant Psychology – Episode 4: Final Episode (Q83)](https://aogdata.wikibase.cloud/wiki/Item:Q83)
+13. [The Quantum Parallel Worlds. Part 1 of 3 (Q84)](https://aogdata.wikibase.cloud/wiki/Item:Q84)
+14. [The Quantum Parallel Worlds. Part 2 of 3 (Q85)](https://aogdata.wikibase.cloud/wiki/Item:Q85)
+15. [The Quantum Parallel Worlds. Part 3 of 3 (Q86)](https://aogdata.wikibase.cloud/wiki/Item:Q86)
 <!-- ARTICLE LIST END -->
 ---
 ### ✍️ Literary Works by Faramarz Tabesh
