@@ -31,10 +31,9 @@ His core mission is to bridge fragmented knowledge domains through integrative r
 
 ---
 
-## 🎓 Scholarly Works by Faramarz Tabesh on Academia.edu
+## 📚 Publications on Academia.edu
 
 Explore academic papers, publications, and research contributions:
-
 🔗 [Faramarz Tabesh on Academia.edu](https://independent.academia.edu/FaramarzTabesh)
 
 ---
@@ -46,9 +45,9 @@ A curated selection of literary works, reflections, and essays published on Medi
 
 ---
 
-## 🏛 Affiliation
+# 🏛 Affiliation
 
-### Research Institute Andishe Online Germany (AOG)
+## Research Institute Andishe Online Germany (AOG)
 
 AOG is an internationally registered research institute committed to advancing interdisciplinary and multilingual scientific exploration. Founded by Faramarz Tabesh, AOG publishes original research in six languages and promotes critical, comparative, and metaphysical approaches across diverse fields.
 
