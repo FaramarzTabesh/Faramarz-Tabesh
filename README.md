@@ -31,8 +31,6 @@ His core mission is to bridge fragmented knowledge domains through integrative r
 
 ---
 
----
-
 ## 🎓 Scholarly Works by Faramarz Tabesh on Academia.edu
 
 Explore academic papers, publications, and research contributions:
