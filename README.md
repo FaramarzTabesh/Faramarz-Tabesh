@@ -1,4 +1,4 @@
-# 🧑‍🔬 Faramarz Tabesh
+# Faramarz Tabesh
 
 Faramarz Tabesh is the founder of the **Research Institute Andishe Online Germany (AOG)**, an internationally registered research institute dedicated to interdisciplinary and cross-linguistic scientific advancement. He is also the inventor of the "**Quantomagnetics theory**."
 
@@ -40,7 +40,9 @@ A curated selection of literary works, reflections, and essays published on Medi
 
 ## 🏛 Affiliation
 
-**Research Institute Andishe Online Germany (AOG)** is an internationally registered research institute committed to advancing **interdisciplinary and multilingual scientific exploration**. Founded by Faramarz Tabesh, AOG publishes original research in six languages and promotes critical, comparative, and metaphysical approaches across diverse fields.
+# Research Institute Andishe Online Germany (AOG)
+
+AOG is an internationally registered research institute committed to advancing interdisciplinary and multilingual scientific exploration. Founded by Faramarz Tabesh, AOG publishes original research in six languages and promotes critical, comparative, and metaphysical approaches across diverse fields.
 
 AOG’s mission is to foster **unified scientific reasoning**, integrate fragmented disciplines, and make scientific discourse accessible globally through multilingual platforms and open-access archives.
 
