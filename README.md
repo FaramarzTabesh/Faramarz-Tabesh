@@ -31,6 +31,16 @@ His core mission is to bridge fragmented knowledge domains through integrative r
 
 ---
 
+---
+
+## 🎓 Scholarly Works by Faramarz Tabesh on Academia.edu
+
+Explore academic papers, publications, and research contributions:
+
+🔗 [Faramarz Tabesh on Academia.edu](https://independent.academia.edu/FaramarzTabesh)
+
+---
+
 ## ✍️ Literary Works
 
 A curated selection of literary works, reflections, and essays published on Medium.  
