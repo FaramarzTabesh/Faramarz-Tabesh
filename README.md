@@ -87,23 +87,12 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 - [Research Institute Andishe Online Germany (AOG)](https://aogdata.wikibase.cloud/wiki/Item:Q12)  
 - [Faramarz Tabesh](https://aogdata.wikibase.cloud/wiki/Item:Q10)
 
-#### 📄 Articles
+## 📚 Research Publications – English Collection
 
-1. [Appearance of Instinctive Characteristics – Step 1: New Concepts and Ideas (Q2)](https://aogdata.wikibase.cloud/wiki/Item:Q2)  
-2. [Who’s Elite (Q3)](https://aogdata.wikibase.cloud/wiki/Item:Q3)  
-3. [Quantomagnetics Theory (Q24)](https://aogdata.wikibase.cloud/wiki/Item:Q24)  
-4. [Anthropomorphism: Scientific Analysis and Correction of Common Misconceptions (Q71)](https://aogdata.wikibase.cloud/wiki/Item:Q71)  
-5. [The Difference Between a Sect and a Complete Worldview (Q73)](https://aogdata.wikibase.cloud/wiki/Item:Q73)  
-6. [A Critical Evaluation of a Scientific Misstep (Q76)](https://aogdata.wikibase.cloud/wiki/Item:Q76)  
-7. [From Tus to London – Part I (Q77)](https://aogdata.wikibase.cloud/wiki/Item:Q77)  
-8. [From Tus to London – Part II (Q78)](https://aogdata.wikibase.cloud/wiki/Item:Q78)  
-9. [Infant Psychology – Episode 1 (Q79)](https://aogdata.wikibase.cloud/wiki/Item:Q79)  
-10. [Infant Psychology – Episode 2 (Q81)](https://aogdata.wikibase.cloud/wiki/Item:Q81)  
-11. [Infant Psychology – Episode 3 (Q82)](https://aogdata.wikibase.cloud/wiki/Item:Q82)  
-12. [Infant Psychology – Episode 4 (Q83)](https://aogdata.wikibase.cloud/wiki/Item:Q83)  
-13. [The Quantum Parallel Worlds – Part 1 (Q84)](https://aogdata.wikibase.cloud/wiki/Item:Q84)  
-14. [The Quantum Parallel Worlds – Part 2 (Q85)](https://aogdata.wikibase.cloud/wiki/Item:Q85)  
-15. [The Quantum Parallel Worlds – Part 3 (Q86)](https://aogdata.wikibase.cloud/wiki/Item:Q86)
+A curated list of English-language scholarly publications by **Faramarz Tabesh**, published under the auspices of the **Research Institute Andishe Online Germany (AOG)**.  
+The entries are systematically organized by subject and format and hosted on the institute’s Wikibase platform.
+
+🔗 [View the full publication list on Wikibase](https://aogdata.wikibase.cloud/wiki/My_Publications)
 
 ---
 
