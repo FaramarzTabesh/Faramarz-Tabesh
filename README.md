@@ -82,12 +82,12 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 
 ---
 
-### 🗂️ aogdata.wikibase Items
+## 🗂️ aogdata.wikibase Items
 
 - [Research Institute Andishe Online Germany (AOG)](https://aogdata.wikibase.cloud/wiki/Item:Q12)  
 - [Faramarz Tabesh](https://aogdata.wikibase.cloud/wiki/Item:Q10)
 
-## 📚 Research Publications – English Collection
+### 📚 Research Publications – English Collection
 
 A curated list of English-language scholarly publications by **Faramarz Tabesh**, published under the auspices of the **Research Institute Andishe Online Germany (AOG)**.  
 The entries are systematically organized by subject and format and hosted on the institute’s Wikibase platform.
