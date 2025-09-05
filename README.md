@@ -21,6 +21,11 @@ His core mission is to bridge fragmented knowledge domains through integrative r
 
 ## 📚 Selected Publications on Zenodo
 
+A link to view all publications by **Faramarz Tabesh** on Zenodo:  
+🔗 [View all publications on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tabesh%2C%20Faramarz%22&l=list&p=1&s=10&sort=bestmatch)
+
+Here are a few examples:
+
 - [EN – Publication 1](https://doi.org/10.5281/zenodo.15235184)  
 - [EN – Publication 2](https://doi.org/10.5281/zenodo.15241032)  
 - [EN – Publication 3](https://doi.org/10.5281/zenodo.15475221)  
@@ -79,6 +84,7 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 - [AOG – Research (French)](https://doi.org/10.17605/OSF.IO/ETXPS)  
 - [AOG – Research (Spanish)](https://doi.org/10.17605/OSF.IO/DKSEQ)  
 - [AOG – Research (Persian)](https://doi.org/10.17605/OSF.IO/W3M58)
+- [AOG – Research (Arabic)](https://doi.org/10.17605/OSF.IO/Z3PB5))
 
 ---
 
@@ -87,6 +93,7 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 - [Research Institute Andishe Online Germany (AOG)](https://aogdata.wikibase.cloud/wiki/Item:Q12)  
 - [Faramarz Tabesh](https://aogdata.wikibase.cloud/wiki/Item:Q10)
 
+### In English
 ### 📚 Research Publications – English Collection
 
 A curated list of English-language scholarly publications by **Faramarz Tabesh**, published under the auspices of the **Research Institute Andishe Online Germany (AOG)**.  
@@ -95,6 +102,7 @@ The entries are systematically organized by subject and format and hosted on the
 🔗 [View the full publication list on Wikibase](https://aogdata.wikibase.cloud/wiki/My_Publications)
 
 ---
+### In German
 ### 📚 Forschungspublikationen – Deutsche Sammlung
 
 Eine kuratierte Liste deutschsprachiger wissenschaftlicher Publikationen von **Faramarz Tabesh**, veröffentlicht unter der Schirmherrschaft des **Forschungsinstituts Andishe Online Germany (AOG)**.  
