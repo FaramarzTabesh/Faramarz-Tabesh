@@ -95,6 +95,15 @@ The entries are systematically organized by subject and format and hosted on the
 🔗 [View the full publication list on Wikibase](https://aogdata.wikibase.cloud/wiki/My_Publications)
 
 ---
+### 📚 Forschungspublikationen – Deutsche Sammlung
+
+Eine kuratierte Liste deutschsprachiger wissenschaftlicher Publikationen von **Faramarz Tabesh**, veröffentlicht unter der Schirmherrschaft des **Forschungsinstituts Andishe Online Germany (AOG)**.  
+Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werden auf der Wikibase-Plattform des Instituts gehostet.
+
+🔗 [Vollständige Liste der Publikationen auf Wikibase ansehen](https://aogdata.wikibase.cloud/wiki/Wissenschaftliche_Artikel_und_Werke_von_Faramarz_Tabesh)
+
+---
+
 
 ### ▶️ AOG YouTube Channel
 
