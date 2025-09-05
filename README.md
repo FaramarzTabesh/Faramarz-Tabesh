@@ -84,7 +84,7 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 - [AOG – Research (French)](https://doi.org/10.17605/OSF.IO/ETXPS)  
 - [AOG – Research (Spanish)](https://doi.org/10.17605/OSF.IO/DKSEQ)  
 - [AOG – Research (Persian)](https://doi.org/10.17605/OSF.IO/W3M58)
-- [AOG – Research (Arabic)](https://doi.org/10.17605/OSF.IO/Z3PB5))
+- [AOG – Research (Arabic)](https://doi.org/10.17605/OSF.IO/Z3PB5)
 
 ---
 
