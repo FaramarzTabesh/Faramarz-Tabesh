@@ -117,10 +117,11 @@ Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werde
 A curated list of Persian(Farsi)-language scholarly publications by **Faramarz Tabesh**, published under the auspices of the **Research Institute Andishe Online Germany (AOG)**.  
 The entries are systematically organized by subject and format and hosted on the institute’s Wikibase platform.
 
-🔗 [View the full publication list on Wikibase](https://aogdata.wikibase.cloud/wiki/Wissenschaftliche_Artikel_und_Werke_von_Faramarz_Tabesh](https://aogdata.wikibase.cloud/wiki/Persian_Scientific_and_Cultural_Articles_of_Faramarz_Tabesh(%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_%D8%B9%D9%84%D9%85%DB%8C_%D9%88_%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C_%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2_%D8%AA%D8%A7%D8%A8%D8%B4).
+🔗 [View the full publication list on Wikibase. فهرست کامل انتشارات را در ویکی‌بیس مشاهده کنید](https://aogdata.wikibase.cloud/wiki/Persian_Scientific_and_Cultural_Articles_of_Faramarz_Tabesh(%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_%D8%B9%D9%84%D9%85%DB%8C_%D9%88_%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C_%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2_%D8%AA%D8%A7%D8%A8%D8%B4).
 
 
 
+---
 ### ▶️ AOG YouTube Channel
 
 Featuring over 350 educational scientific videos in six languages, all created and produced by Faramarz Tabesh.  
