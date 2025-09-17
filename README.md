@@ -114,11 +114,36 @@ Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werde
 ### In Persian(Farsi-فارسی)
 ### 📚 Research Publications – Persian Sammlung
 
-A curated list of Persian(Farsi)-language scholarly publications by **Faramarz Tabesh**, published under the auspices of the **Research Institute Andishe Online Germany (AOG)**.  
-The entries are systematically organized by subject and format and hosted on the institute’s Wikibase platform.
+یک فهرست منتخب از نشریات علمی به زبان فارسی توسط **فرامرز تابش**، منتشر شده تحت نظر **مؤسسه تحقیقات اندیشه آنلاین آلمان (AOG)**.  
+ورودی‌ها به‌طور سیستماتیک بر اساس موضوع و قالب سازمان‌دهی شده و در پلتفرم ویکی‌بیس مؤسسه میزبانی می‌شوند.
+
 
 🔗 [فهرست کامل انتشارات](https://aogdata.wikibase.cloud/wiki/Persian_Scientific_and_Cultural_Articles_of_Faramarz_Tabesh(%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C_%D8%B9%D9%84%D9%85%DB%8C_%D9%88_%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C_%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2_%D8%AA%D8%A7%D8%A8%D8%B4)) را در ویکی‌بیس مشاهده کنید.
 
+---
+### In French
+### 📚 Publications de recherche – Collection en français  
+Une liste sélectionnée de publications scientifiques en français de Faramarz Tabesh, publiées sous l'égide de l'Institut de recherche Andishe Online Germany (AOG).  
+Les entrées sont organisées de manière systématique par sujet et par format et hébergées sur la plateforme Wikibase de l'institut.  
+
+🔗 [Voir la liste complète des publications](https://aogdata.wikibase.cloud/wiki/Articles_scientifiques_et_autres_%C5%93uvres_de_Faramarz_Tabesh) sur Wikibase.
+
+
+---
+### In Spanish
+### 📚 Publicaciones de investigación – Colección en español  
+Una lista seleccionada de publicaciones científicas en español de Faramarz Tabesh, publicadas bajo el auspicio del Instituto de Investigación Andishe Online Alemania (AOG).  
+Las entradas están organizadas de manera sistemática por tema y formato, y se alojan en la plataforma Wikibase del instituto.  
+
+🔗 [Ver la lista completa de publicaciones](https://aogdata.wikibase.cloud/wiki/Art%C3%ADculos_cient%C3%ADficos_y_otras_obras_de_Faramarz_Tabesh) en Wikibase.
+
+---
+### In Arabic
+### 📚 المنشورات البحثية – المجموعة العربية  
+قائمة مختارة من المنشورات العلمية باللغة العربية لفارامرز تابش، نُشرت تحت إشراف معهد أنديشه أونلاين ألمانيا (AOG).  
+تم تنظيم الإدخالات بشكل منهجي حسب الموضوع والنوع، وهي مستضافة على منصة ويكيبيز الخاصة بالمعهد.  
+
+🔗 [عرض القائمة الكاملة للمنشورات](https://aogdata.wikibase.cloud/wiki/Scholarly_Articles_and_Works_of_Faramarz_Tabesh_(%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D9%88_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%88_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84_%D9%84%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2_%D8%AA%D8%A7%D8%A8%D8%B4)) على ويكيبيز.
 
 
 ---
