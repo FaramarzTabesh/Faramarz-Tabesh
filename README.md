@@ -123,7 +123,7 @@ Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werde
 ---
 ### In French
 ### 📚 Publications de recherche – Collection en français  
-Une liste sélectionnée de publications scientifiques en français de Faramarz Tabesh, publiées sous l'égide de l'Institut de recherche Andishe Online Germany (AOG).  
+Une liste sélectionnée de publications scientifiques en français de **Faramarz Tabesh**, publiées sous l'égide de l'Institut de recherche **Andishe Online Germany (AOG)**.  
 Les entrées sont organisées de manière systématique par sujet et par format et hébergées sur la plateforme Wikibase de l'institut.  
 
 🔗 [Voir la liste complète des publications](https://aogdata.wikibase.cloud/wiki/Articles_scientifiques_et_autres_%C5%93uvres_de_Faramarz_Tabesh) sur Wikibase.
@@ -132,7 +132,7 @@ Les entrées sont organisées de manière systématique par sujet et par format 
 ---
 ### In Spanish
 ### 📚 Publicaciones de investigación – Colección en español  
-Una lista seleccionada de publicaciones científicas en español de Faramarz Tabesh, publicadas bajo el auspicio del Instituto de Investigación Andishe Online Alemania (AOG).  
+Una lista seleccionada de publicaciones científicas en español de **Faramarz Tabesh**, publicadas bajo el auspicio del Instituto de Investigación **Andishe Online Germany (AOG)**.  
 Las entradas están organizadas de manera sistemática por tema y formato, y se alojan en la plataforma Wikibase del instituto.  
 
 🔗 [Ver la lista completa de publicaciones](https://aogdata.wikibase.cloud/wiki/Art%C3%ADculos_cient%C3%ADficos_y_otras_obras_de_Faramarz_Tabesh) en Wikibase.
@@ -140,7 +140,7 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 ---
 ### In Arabic
 ### 📚 المنشورات البحثية – المجموعة العربية  
-قائمة مختارة من المنشورات العلمية باللغة العربية لفارامرز تابش، نُشرت تحت إشراف معهد أنديشه أونلاين ألمانيا (AOG).  
+قائمة مختارة من المنشورات العلمية باللغة العربية **لفارامرز تابش**، نُشرت تحت إشراف معهد **أنديشه أونلاين ألمانيا (AOG)**.  
 تم تنظيم الإدخالات بشكل منهجي حسب الموضوع والنوع، وهي مستضافة على منصة ويكيبيز الخاصة بالمعهد.  
 
 🔗 [عرض القائمة الكاملة للمنشورات](https://aogdata.wikibase.cloud/wiki/Scholarly_Articles_and_Works_of_Faramarz_Tabesh_(%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D9%88_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%88_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84_%D9%84%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2_%D8%AA%D8%A7%D8%A8%D8%B4)) على ويكيبيز.
