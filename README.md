@@ -149,18 +149,17 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 ---
 ## 🗂️ Affiliated Blogs of Research Institute Andishe Online Germany (AOG) 
 
-### In English
+#### In English
 [English Blog](https://researchinstituteaog.blogspot.com/)
-
-### In German
-
-### In French
-
-### In Spanish
-
-### In Arabic
-
-### In Persian(Farsi-فارسی)
+#### In German
+[German Blog](https://uni-vervoll.blogspot.com/)
+#### In French
+[French Blog](https://ostad-french.blogspot.com/2020/05/article-n-5_4.html)
+#### In Spanish
+[Spanish Blog](https://maestro-elahi.blogspot.com/)
+#### In Arabic
+[Arabic Blog](https://andishe-arabic.blogspot.com/)
+#### In Persian(Farsi-فارسی)
 ---
 
 
