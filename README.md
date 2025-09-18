@@ -160,6 +160,24 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 #### In Arabic
 [Arabic Blog](https://andishe-arabic.blogspot.com/)
 #### In Persian(Farsi-فارسی)
+[استاد](https://andishe-a.blogspot.com/)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 ---
 
 
