@@ -147,6 +147,24 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 
 
 ---
+## 🗂️ Affiliated Blogs of Research Institute Andishe Online Germany (AOG) 
+
+### In English
+[English Blog](https://researchinstituteaog.blogspot.com/)
+
+### In German
+
+### In French
+
+### In Spanish
+
+### In Arabic
+
+### In Persian(Farsi-فارسی)
+---
+
+
+---
 ### ▶️ AOG YouTube Channel
 
 Featuring over 350 educational scientific videos in six languages, all created and produced by Faramarz Tabesh.  
