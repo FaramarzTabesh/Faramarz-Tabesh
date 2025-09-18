@@ -150,51 +150,51 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 ## 🗂️ Affiliated Blogs of Research Institute Andishe Online Germany (AOG) 
 
 #### In English
-######[English Blog](https://researchinstituteaog.blogspot.com/)
+###### [English Blog](https://researchinstituteaog.blogspot.com/)
 #### In German
-######[German Blog](https://uni-vervoll.blogspot.com/)
+###### [German Blog](https://uni-vervoll.blogspot.com/)
 #### In French
-######[French Blog](https://ostad-french.blogspot.com/2020/05/article-n-5_4.html)
+###### [French Blog](https://ostad-french.blogspot.com/2020/05/article-n-5_4.html)
 #### In Spanish
-######[Spanish Blog](https://maestro-elahi.blogspot.com/)
+###### [Spanish Blog](https://maestro-elahi.blogspot.com/)
 #### In Arabic
-######[Arabic Blog](https://andishe-arabic.blogspot.com/)
+###### [Arabic Blog](https://andishe-arabic.blogspot.com/)
 #### In Persian(Farsi-فارسی)
-######[استاد](https://andishe-a.blogspot.com/)
+###### [استاد](https://andishe-a.blogspot.com/)
 
-######[علوم تلفیقی](https://oelahi.blogspot.com/)
+###### [علوم تلفیقی](https://oelahi.blogspot.com/)
 
-######[سیر کمال](https://seyrekamal.blogspot.com/)
+###### [سیر کمال](https://seyrekamal.blogspot.com/)
 
-######[زیست شناسی بعد دوم](https://aog-zistshenasi.blogspot.com/)
+###### [زیست شناسی بعد دوم](https://aog-zistshenasi.blogspot.com/)
 
-######[فیزیک نوین ذرات](https://physike-nowin.blogspot.com/)
+###### [فیزیک نوین ذرات](https://physike-nowin.blogspot.com/)
 
-######[جهان هستی- راه نوین](https://jahanehasti2.blogspot.com/)
+###### [جهان هستی- راه نوین](https://jahanehasti2.blogspot.com/)
 
-######[پاسخ به سوالات در سایت](https://www.andishe.online/newpage16)
+###### [پاسخ به سوالات در سایت](https://www.andishe.online/newpage16)
 
-######[پاسخ به سوالات در وبلاگ](https://soal-pasokh.blogspot.com/)
+###### [پاسخ به سوالات در وبلاگ](https://soal-pasokh.blogspot.com/)
 
-######[علوم سیاسی](https://olume-siasi.blogspot.com/)
+###### [علوم سیاسی](https://olume-siasi.blogspot.com/)
 
-######[علم و متافیزیک](https://elmmetafisik.blogspot.com/)
+###### [علم و متافیزیک](https://elmmetafisik.blogspot.com/)
 
-######[روان شناسی و تکنولوژی](https://rawanschenasi.blogspot.com/)
+###### [روان شناسی و تکنولوژی](https://rawanschenasi.blogspot.com/)
 
-######[علوم فضایی و کامپیوتری](https://okamputer.blogspot.com/)
+###### [علوم فضایی و کامپیوتری](https://okamputer.blogspot.com/)
 
-######[در جهان هنر](https://d-honar.blogspot.com/)
+###### [در جهان هنر](https://d-honar.blogspot.com/)
 
-######[الهیات](https://o-elahi.blogspot.com/)
+###### [الهیات](https://o-elahi.blogspot.com/)
 
-######[علوم فلسفی و اسطوره ای](https://falsafe-an.blogspot.com/)
+###### [علوم فلسفی و اسطوره ای](https://falsafe-an.blogspot.com/)
 
-######[گزارشات تاریخی](https://gosaresh.blogspot.com/)
+###### [گزارشات تاریخی](https://gosaresh.blogspot.com/)
 
-######[گالری تصاویر](https://galeri-taswir.blogspot.com/)
+###### [گالری تصاویر](https://galeri-taswir.blogspot.com/)
 
-######[داستان و شعر](http://fa-dastan.blogspot.com/)
+###### [داستان و شعر](http://fa-dastan.blogspot.com/)
 
 
 ---
