@@ -196,7 +196,7 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 
 ###### [داستان و شعر](http://fa-dastan.blogspot.com/)
  
-###### ([http://miga-2027.blogspot.com)-[پروژه های بازسازی ایران دموکراتیک]
+[پروژه های بازسازی ایران دموکراتیک](http://miga-2027.blogspot.com)
 
 ---
 ### ▶️ AOG YouTube Channel
