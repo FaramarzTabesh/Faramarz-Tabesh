@@ -27,7 +27,7 @@ A link to view all publications by **Faramarz Tabesh** on Zenodo:
 
 #### AOG Research Communities on Zenodo:
 
-- 🇬🇧 [English Papers](https://zenodo.org/communities/english-papers)
+- us [English Papers](https://zenodo.org/communities/english-papers)
 - 🇮🇷 [Persian Papers](https://zenodo.org/communities/persian-papers)
 - 🇩🇪 [German Papers](https://zenodo.org/communities/german-papers)
 - 🇫🇷 [French Papers](https://zenodo.org/communities/french-papers)
