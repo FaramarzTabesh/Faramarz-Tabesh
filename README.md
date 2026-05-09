@@ -8,8 +8,8 @@ He has authored over 600 original research articles in six languages — *Englis
 
 His core mission is to bridge fragmented knowledge domains through integrative reasoning and unified scientific methodology. His writings explore foundational questions in science and the humanities, often offering critical, comparative, and metaphysical insights.
 
-📍 Troisdorf, NRW, Germany  
-📧 andishe-germany@online.de  
+Troisdorf, NRW, Germany  
+andishe-germany@online.de  
 🔗 **ORCID:** [0009-0009-2636-2126](https://orcid.org/0009-0009-2636-2126)  
 🔗 **ISNI:** [0000 0005 2737 2290](https://isni.org/isni/0000000527372290)  
 🔗 **GitHub:** [github.com/FaramarzTabesh](https://github.com/FaramarzTabesh/Faramarz-Tabesh)  
@@ -19,7 +19,7 @@ His core mission is to bridge fragmented knowledge domains through integrative r
 
 ---
 
-## 📚 Selected Publications on Zenodo
+## Publications on Zenodo
 
 A link to view all publications by **Faramarz Tabesh** on Zenodo:  
 🔗 [View all publications on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tabesh%2C%20Faramarz%22&l=list&p=1&s=10&sort=bestmatch)
@@ -46,21 +46,21 @@ Here are a few examples:
 
 ---
 
-## 📚 Publications on Academia.edu
+## Publications on Academia.edu
 
 Explore academic papers, publications, and research contributions:
 🔗 [Faramarz Tabesh on Academia.edu](https://independent.academia.edu/FaramarzTabesh)
 
 ---
 
-## ✍️ Literary Works
+## Literary Works
 
 A curated selection of literary works, reflections, and essays published on Medium.  
 🔗 [Visit Medium Profile – @f.tabesh](https://medium.com/@f.tabesh)
 
 ---
 
-# 🏛 Affiliation
+# Affiliation
 
 ## Research Institute Andishe Online Germany (AOG)
 
@@ -68,15 +68,15 @@ AOG is an internationally registered research institute committed to advancing i
 
 AOG’s mission is to foster **unified scientific reasoning**, integrate fragmented disciplines, and make scientific discourse accessible globally through multilingual platforms and open-access archives.
 
-📧 Contact: institute@andishe.online  
-🌐 Website: [https://www.andishe.online](https://www.andishe.online)  
-🔗 **ISNI:** [0000 0005 2724 714X](https://isni.org/isni/000000052724714X)  
-🆔 **Ringgold ID:** 823032  
-📖 Journal: *Andishe* (ISSN: 1619-9898)
+Contact: institute@andishe.online  
+Website: [https://www.andishe.online](https://www.andishe.online)  
+**ISNI:** [0000 0005 2724 714X](https://isni.org/isni/000000052724714X)  
+**Ringgold ID:** 823032  
+Journal: *Andishe* (ISSN: 1619-9898)
 
 ---
 
-### 🌐 Full Publication Archive by Language
+### Full Publication Archive by Language
 
 - [AOG – English](https://www.andishe.online/english)  
 - [AOG – Persian (Farsi)](https://www.andishe.online/newpage137)  
@@ -87,7 +87,7 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 
 ---
 
-### 📁 AOG Projects on OSF
+### AOG Projects on OSF
 
 - [AOG – Research (German)](https://doi.org/10.17605/OSF.IO/ZW47U)  
 - [AOG – Research (English)](https://doi.org/10.17605/OSF.IO/EGMPC)  
@@ -98,13 +98,13 @@ AOG’s mission is to foster **unified scientific reasoning**, integrate fragmen
 
 ---
 
-## 🗂️ aogdata.wikibase Items
+##  aogdata.wikibase Items
 
 - [Research Institute Andishe Online Germany (AOG)](https://aogdata.wikibase.cloud/wiki/Item:Q12)  
 - [Faramarz Tabesh](https://aogdata.wikibase.cloud/wiki/Item:Q10)
 
 ### In English
-### 📚 Research Publications – English Collection
+###  Research Publications – English Collection
 
 A curated list of English-language scholarly publications by **Faramarz Tabesh**, published under the auspices of the **Research Institute Andishe Online Germany (AOG)**.  
 The entries are systematically organized by subject and format and hosted on the institute’s Wikibase platform.
@@ -113,7 +113,7 @@ The entries are systematically organized by subject and format and hosted on the
 
 ---
 ### In German
-### 📚 Forschungspublikationen – Deutsche Sammlung
+###  Forschungspublikationen – Deutsche Sammlung
 
 Eine kuratierte Liste deutschsprachiger wissenschaftlicher Publikationen von **Faramarz Tabesh**, veröffentlicht unter der Schirmherrschaft des **Forschungsinstituts Andishe Online Germany (AOG)**.  
 Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werden auf der Wikibase-Plattform des Instituts gehostet.
@@ -122,7 +122,7 @@ Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werde
 
 ---
 ### In Persian(Farsi-فارسی)
-### 📚 Research Publications – Persian Sammlung
+###  Research Publications – Persian Sammlung
 
 یک فهرست منتخب از نشریات علمی به زبان فارسی توسط **فرامرز تابش**، منتشر شده تحت نظر **مؤسسه تحقیقات اندیشه آنلاین آلمان (AOG)**.  
 ورودی‌ها به‌طور سیستماتیک بر اساس موضوع و قالب سازمان‌دهی شده و در پلتفرم ویکی‌بیس مؤسسه میزبانی می‌شوند.
@@ -132,7 +132,7 @@ Die Einträge sind systematisch nach Fachgebiet und Format organisiert und werde
 
 ---
 ### In French
-### 📚 Publications de recherche – Collection en français  
+###  Publications de recherche – Collection en français  
 Une liste sélectionnée de publications scientifiques en français de **Faramarz Tabesh**, publiées sous l'égide de l'Institut de recherche **Andishe Online Germany (AOG)**.  
 Les entrées sont organisées de manière systématique par sujet et par format et hébergées sur la plateforme Wikibase de l'institut.  
 
@@ -141,7 +141,7 @@ Les entrées sont organisées de manière systématique par sujet et par format 
 
 ---
 ### In Spanish
-### 📚 Publicaciones de investigación – Colección en español  
+###  Publicaciones de investigación – Colección en español  
 Una lista seleccionada de publicaciones científicas en español de **Faramarz Tabesh**, publicadas bajo el auspicio del Instituto de Investigación **Andishe Online Germany (AOG)**.  
 Las entradas están organizadas de manera sistemática por tema y formato, y se alojan en la plataforma Wikibase del instituto.  
 
@@ -157,7 +157,7 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
 
 
 ---
-## 🗂️ Affiliated Blogs of Research Institute Andishe Online Germany (AOG) 
+##  Affiliated Blogs of Research Institute Andishe Online Germany (AOG) 
 
 #### In English
 ###### [English Blog](https://researchinstituteaog.blogspot.com/)
@@ -208,7 +208,7 @@ Las entradas están organizadas de manera sistemática por tema y formato, y se 
  
 ###### [پروژه های بازسازی ایران دموکراتیک](http://miga-2027.blogspot.com)
 ---
-### ▶️ AOG YouTube Channel
+### AOG YouTube Channel
 
 Featuring over 350 educational scientific videos in six languages, all created and produced by Faramarz Tabesh.  
 🔗 [Visit YouTube Channel](https://www.youtube.com/channel/UCDJ2r3x2mO7bfMpVw6lB1EQ/videos)
