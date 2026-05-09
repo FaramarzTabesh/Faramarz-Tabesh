@@ -24,6 +24,29 @@ His core mission is to bridge fragmented knowledge domains through integrative r
 A link to view all publications by **Faramarz Tabesh** on Zenodo:  
 🔗 [View all publications on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tabesh%2C%20Faramarz%22&l=list&p=1&s=10&sort=bestmatch)
 
+### 📁 AOG Projects on OSF
+# AOG Research Communities
+
+All research communities of Andishe Online Germany (AOG):
+
+## English Papers
+https://zenodo.org/communities/english-papers
+
+## Persian Papers
+https://zenodo.org/communities/persian-papers
+
+## German Papers
+https://zenodo.org/communities/german-papers
+
+## French Papers
+https://zenodo.org/communities/french-papers
+
+## Spanish Papers
+https://zenodo.org/communities/spanish-papers
+
+## Arabic Papers
+https://zenodo.org/communities/arabic-papers
+
 Here are a few examples:
 
 - [EN – Publication 1](https://doi.org/10.5281/zenodo.15235184)  
