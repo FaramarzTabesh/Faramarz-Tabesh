@@ -16,7 +16,9 @@ andishe-germany@online.de
 🔗 **Academia.edu:** [Faramarz Tabesh](https://independent.academia.edu/FaramarzTabesh)  
 🔗 **Medium:** [@f.tabesh](https://medium.com/@f.tabesh)  
 🔗 **Website:** [https://www.andishe.online](https://www.andishe.online)
+
 🔗 **IAISD – Research Publications Repository:** [https://[www.andishe.online]([https://sites.google.com/view/iaisd/start](https://sites.google.com/view/iaisd/start))](https://www.andishe.online)
+
 🔗 **Internet Archive:** [[https://www.andishe.online]([https://archive.org/search?query=creator%3A%22Faramarz+Tabesh%22](https://archive.org/search?query=creator%3A%22Faramarz+Tabesh%22))](https://www.andishe.online)
 
 ---
