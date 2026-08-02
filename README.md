@@ -25,17 +25,17 @@ andishe-germany@online.de
 ## Publications on Zenodo
 
 A link to view all publications by **Faramarz Tabesh** on Zenodo:  
-🔗 [View all publications on Zenodo]()
+🔗 [View all publications on Zenodo()
 
 
 #### AOG Research Communities on Zenodo:
 
--  [English Papers]()
--  [Persian Papers]()
--  [German Papers]()
--  [French Papers]()
--  [Spanish Papers]()
--  [Arabic Papers]()
+-  [English Papers()
+-  [Persian Papers()
+-  [German Papers()
+-  [French Papers()
+-  [Spanish Papers()
+-  [Arabic Papers()
 
 ---
 
