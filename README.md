@@ -25,27 +25,17 @@ andishe-germany@online.de
 ## Publications on Zenodo
 
 A link to view all publications by **Faramarz Tabesh** on Zenodo:  
-🔗 [View all publications on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tabesh%2C%20Faramarz%22&l=list&p=1&s=10&sort=bestmatch)
+🔗 [View all publications on Zenodo]()
 
 
 #### AOG Research Communities on Zenodo:
 
--  [English Papers](https://zenodo.org/communities/english-papers)
--  [Persian Papers](https://zenodo.org/communities/persian-papers)
--  [German Papers](https://zenodo.org/communities/german-papers)
--  [French Papers](https://zenodo.org/communities/french-papers)
--  [Spanish Papers](https://zenodo.org/communities/spanish-papers)
--  [Arabic Papers](https://zenodo.org/communities/arabic-papers)
-
-Here are a few examples:
-
-- [EN – Publication 1](https://doi.org/10.5281/zenodo.15235184)  
-- [EN – Publication 2](https://doi.org/10.5281/zenodo.15241032)  
-- [EN – Publication 3](https://doi.org/10.5281/zenodo.15475221)  
-- [FR – Publication](https://doi.org/10.5281/zenodo.15309731)  
-- [ES – Publication](https://doi.org/10.5281/zenodo.15281557)  
-- [DE – Publication](https://doi.org/10.5281/zenodo.15269499)  
-- [FA – Publication](https://doi.org/10.5281/zenodo.15302007)
+-  [English Papers]()
+-  [Persian Papers]()
+-  [German Papers]()
+-  [French Papers]()
+-  [Spanish Papers]()
+-  [Arabic Papers]()
 
 ---
 
